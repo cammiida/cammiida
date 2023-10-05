@@ -1,17 +1,12 @@
 ![Camilla's GitHub stats](https://github-readme-stats.cmd.fyi/api?username=cammiida&show_icons=true&theme=cobalt)
 
-![Top Langs](https://github-readme-stats.cmd.fyi/api/top-langs/?username=cammiida&hide=php&theme=cobalt&layout=compact&langs_count=8&card_width=320)
+![Top Langs](https://github-readme-stats.cmd.fyi/api/top-langs/?username=cammiida&hide=php&theme=cobalt&layout=compact&langs_count=8)
 
 🔭 I’m currently working on building a PWA for train drivers and conductors for the national railway company in Norway. 
 
 💛 I love to work on all levels of the stack to gain a full oversight over what we're building.
 
-💡 My main technological interests are: 
-- JS/TS
-- Remix
-- Kotlin
-- AWS
-- Terraform
+💡 My main technological interests are (non-exhaustive): JS/TS, Remix, Kotlin, AWS, and Terraform
 
 
 <!--
