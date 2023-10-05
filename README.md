@@ -1,6 +1,6 @@
-![Camilla's GitHub stats](https://github-readme-stats-ten-zeta-14.vercel.app/api?username=cammiida&show_icons=true&theme=synthwave)
+![Camilla's GitHub stats](https://github-readme-stats.cmd.fyi/api?username=cammiida&show_icons=true&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats-ten-zeta-14.vercel.app/api/top-langs/?username=cammiida)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.cmd.fyi/api/top-langs/?username=cammiida&hide=php&theme=cobalt)
 
 🔭 I’m currently working on building a PWA for train drivers and conductors for the national railway company in Norway. 
 
